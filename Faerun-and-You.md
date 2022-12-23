@@ -64,7 +64,7 @@ To learn more about each of the nine geographic regions of Faerûn for your char
 ### Government
 There is no unifying government for this continent; Each nation has its own histories resulting in its own particular type of governance. In general, many parts of Faerûn are kingdoms, city-states, or carefully maintained alliances of rural communities.
 
-Alliances form and break between nations, and factions hurt or help the people of Faerûn depending on the goals of their organizations.
+Alliances form and break between nations, and factions hurt or help the people of Faerûn depending on their own internal goals.
 
 ### Economy
 Agriculture & trade are the lifeblood of common citizens. Most rural folk depend on farming, but Faerûnians in cities may ply skilled trades or use brawn to earn their keep. News & gossip are carried between population centers by caravans and trade ships, and by traveling bards and minstrels. Adventurers can spread news while also creating it. <sup>[ref](https://5e.tools/book.html#scag,-1,preface,0)</sup>
@@ -82,7 +82,7 @@ Except in the most remote or insular places, Faerûnians are accustomed to seein
 
 Our campaign begins in Amn, a nation in the south of the Sword Coast in western Faerûn. It's also known as the Merchant's Domain, due to the people there seeing wealth as an indicator of status.
 
-As part of your character creation, include a reason your character may be found in Amn at campaign start. They might be a orphan raised on the streets of Amn, a mercenary looking for coin and blood, an merchant hoping to strike it rich with new trade routes, a protector of the innocent looking for a noble cause, or a myriad of other things. The possibilities are endless.
+As part of your character creation, include a reason your character may be found in Amn at campaign start. They might be an orphan raised on the streets of Amn, a mercenary looking for coin and blood, a merchant hoping to strike it rich with new trade routes, a protector of the innocent looking for a noble cause, or a myriad of other things. The possibilities are endless.
 
 ### Geography
 Bookended by mountains and forests, Amn sits in a fertile basin with a wealth of natural resources. The weather is pleasant almost all year round. At Lake Esmel near the center of the nation, the temperature is warmer due to the hot springs. 
@@ -94,18 +94,18 @@ Amn is considered a colonial power, holding ports in Chult and the Moonshae Isle
 ### Government / Economy
 The government and economy of Amn are fairly intertwined. 
 
-Amn is an oligarchy, ruled over by the Council of Five, consisting of the five wealthiest merchant houses. Their duties were to maintain trade within and outside Amn, controlling nearly every aspect of the nation's economy. 
+Amn is an oligarchy, ruled over by the Council of Five, consisting of the heads of the five wealthiest merchant houses. Their duties are to maintain trade within and outside Amn, controlling nearly every aspect of the nation's economy.
 
-Directly beneath the Council were the head merchant families, which used their wealth to buy political power. While they had little direct government influence, their authority among the towns or cities in whcih they resided was still considerable. In any given city of Amn, there were ten or more heavily influential families.
+Directly beneath the Council are the head merchant families, which used their wealth to buy political power. While they have little direct government influence, their authority among the towns or cities in which they reside is still considerable. In any given city of Amn, there are ten or more heavily influential families.
 
-Next in the power food chain were mercantile houses, companies formed by the consolidation of two or more families' wealth. The Council and other factions invested in them to keep an eye on the economic interests of lesser mercantile families.
+Next in the power food chain are mercantile houses, companies formed by the consolidation of two or more families' wealth. The Council and other factions invest in them to keep an eye on the economic interests of lesser mercantile families.
 
 Various factions stand equal in power to the mercantile houses: the Cowled Wizards, the Emerald Cabal, and the Shadow Thieves. These factions are all secretive in nature and maintain closed ranks, but it's well known that the Cowled Wizards are the only legal arcane institution in Amn, all others banned by decree of the Council. Spellcasters outside the ranks of the Cowled Wizards may be hunted down, imprisoned, and even put to death by this faction.
 
 In smaller settlements, village lords and harbormasters maintained control over their settlements and port townships. They are elected, with only stakeholders, businesspeople, property owners, and landlords having voting power.
 
 #### Foreign Relations
-Some southern settlements in Amn have split loyalties, preferring to consider themselves part of the queendom of Tethyr to the south, due to its recent prosperity. The southern border is disputed, with the official border being the Tethir Road, and those with Tethyrian loyalties claiming the border to be further north. Despite this, Amn & Tethyr are formally considered allies due to their close proximity, although the reality of the relationship may be more adversarial.
+Some southern settlements in Amn have split loyalties, preferring to consider themselves part of the queendom of Tethyr to the south, due to its recent prosperity. The southern border is disputed, with the official border being the Tethir Road, and those with Tethyrian loyalties claiming the border to be further north. Despite this, Amn & Tethyr are formally considered allies due to their close proximity and economic ties, although the reality of the relationship may be more adversarial.
 
 Amn controls important trade routes to Calimshan to the south, and Baldur's Gate and the Heartlands to the north. Amn's economy has flourished due to being the central land point of trade between the southern nations and the Sword Coast. Amn's biggest trade rival is Waterdeep in the northern Sword Coast. 
 
@@ -114,7 +114,7 @@ Muranndin, the "monster kingdom" of ogres and orcs to Amn's southwest, poses a s
 ### Society
 
 #### Demographics
-Two thirds of the population of Amn live west of Lake Esmel. Amn is majority human, with a large minority halfling population, whom the humans treated equally due to the latter's business skills. The majority of halflings are concentrated in Esmeltaran or east in Riatavin. 
+Two thirds of the population of Amn live west of Lake Esmel. Amn is majority human, with a large minority halfling population, whom the humans treat equally due to the latter's business skills. The majority of halflings are concentrated in Esmeltaran or east in Riatavin. 
 
 Other races are in the minority, and considered uncommon, though not discriminated against, except in the case of half-orcs. Half-orcs are looked down upon as second-class citizens due to Amn's bloody history with Muranndin.
 
@@ -123,7 +123,7 @@ Money is key to status in Amn, and the main symbol of success. You could even bu
 
 Status is measured in terms of the location of a person's property. Of course, owning property in Athkatla, the capital of Amn, is the most coveted, with the Gem District being the best area in the city. Properties around Lake Esmel are also considered highly valuable.
 
-Fashion is another means of demonstrating status. People often wear turbans, with elaborate and ornate decorations showing off higher status. Precious metal embroidered silk garments are popular amongst all socioeconomic classes and all genders. Vests and cloaks from the North are in fashion despite the temperate climate. Jewelry is another show of status with pearls, especially black pearls, being in high demand.
+Fashion is another means of demonstrating status. People often wear turbans, with elaborate and ornate decorations showing off higher status. Precious metal embroidered silk garments are popular amongst all socioeconomic classes and all genders. Vests and cloaks from the North are in fashion despite the temperate climate. Jewelry is another show of status, with pearls, especially black pearls, being in high demand.
 
 In the wealthiest families, dressing ornately may be frowned upon, with people resorting to other displays of status instead. A recent show of wealth can immediately raise a person's status, even beyond those who are wealthier overall. More emphasis is placed on proper business conduct than racial stereotypes.
 

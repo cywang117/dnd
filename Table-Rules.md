@@ -53,7 +53,7 @@ Score | Cost
 For example, using this method, `15, 15, 15, 8, 8, 8` is a possible outcome.
 
 #### DM's Luck (Custom Array)
-If all the players agree, the DM rolls a set of scores and everyone assigns those numbers to their ability scores. Rolls of 1-4 and 18-20 will be rerolled. After scores are assigned, racial modifiers are applied.
+If all the players agree, the DM rolls a set of scores and everyone assigns those numbers to their ability scores. Rolls of 1-4 will be rerolled. After scores are assigned, racial modifiers are applied.
 
 ### Character Backgrounds
 Characters in our starting region of Faerûn may come from a variety of backgrounds. The accepted backgrounds in this game may be found in the PHB (Player's Handbook) or SCAG (Sword Coast Adventurer's Guide). Your backstory can be seen as very general starting points that players can use as part of their backstories, personalities, or in the ways others react to them.
@@ -115,3 +115,4 @@ If you wish to choose a class, subclass, or class feature outside of these lists
 - [Combat flanking](https://5e.tools/variantrules.html#flanking_dmg) is in effect.
 - [Inspiration](https://5e.tools/variantrules.html#inspiration_phb) expires at the end of each session.
 - One inspiration point is awarded based on player vote at the end of each session, to be useable for the next session.
+- Death may happen, and your actions have consequences.

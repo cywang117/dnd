@@ -7,7 +7,7 @@ Term | Definition
 D&D | Dungeons & Dragons
 DnD5e | Dungeons & Dragons 5th edition, the tabletop roleplaying game we're playing.
 XdY | A way of showing how many of a certain die to use, where X is the number of dice and Y is the type. For example, 3d6 is three 6-sided die.
-AC | Armor Class, or how hard you are to hit with attack rolls. An enemy attack rollof equal to or higher than your AC hits you.
+AC | Armor Class, or how hard you are to hit with attack rolls. An enemy attack roll of equal to or higher than your AC hits you.
 AoE | Area of Effect, an RPG term for actions or abilities targeting a large area, instead of individuals.
 ASI | Ability Score Increase, a class feature available to every class at certain levels that allows you to increase your ability scores or take a feat.
 CR | Challenge Rating, a system for rating enemy difficulty.
@@ -25,7 +25,7 @@ RP | Roleplay
 ST | Saving Throw, a roll attempt to avoid an effect.
 TPK | Total Party Kill, where everyone in the party is dropped to 0 HP or outright killed.
 TTRPG | Tabletop Role Playing Game
-UA | Unearth Arcana, playtest material that's released for free on the official DnD website.
+UA | Unearthed Arcana, playtest material that's released for free on the official DnD website.
 WotC | Wizards of the Coast, the company that owns and creates DnD and Magic: The Gathering content.
 XP | Experience points, a method of leveling up.
 
@@ -41,7 +41,7 @@ Battlemap | A map used for combat, usually with a 5ft square grid overlaid.
 Bonus Action | Used by certain abilities or spells, as categorized in their descriptions. May be used along with an action on your turn in combat, along with movement. More restricted in use than a normal action.
 Buff | A benefit to a creature that's not healing, such as granting increased movement speed or advantage.
 Campaign | The wider story you play with your character and party.
-Cheese | Tactics that rely on known overpowered abilities, combining features that weren't intended to be combined, or interpreting rules favorably to the party, among other behaviors.
+Cheese | Tactics that rely on known overpowered abilities, combining features that weren't intended to be combined, or interpreting rules favorably to the character, among other behaviors.
 Core / Core Rules | Referencing content found in Player's Handbook (PHB), Dungeon Master's Guide (DMG), and Monster Manual (MM).
 Crit | Short for Critical hit, where you roll a 20 on a d20 during an attack roll. Criticals only exist in attack rolls by RAW, not saving throws or ability checks.
 Debuff | An effect that imposes a hindrance on a creature, opposite of a buff.
@@ -69,7 +69,7 @@ Round | An in-combat measurement of time, in which every combatant has has their
 Rules Lawyer | A player that will argue rules-as-written or rules-as-intended with the DM, usually for personal / party benefit, sometimes out of the perception that the DM or another player is getting something wrong.
 Ruling | An interpretation of the rules by the DM to resolve a situation.
 Save | Short for Saving Throw, a type of defense against effects that don't target your AC (Armor Class).
-Session 0 | The first session of a new campaign, used to discuss expectations, safety tools, character / party, setting, and perhaps roll stats. It's common for this session to not include any gameplay, but there may be a small amount of roleplaying or combaty at the end.
+Session 0 | The first session of a new campaign, used to discuss expectations, safety tools, character / party, setting, and perhaps roll stats. It's common for this session to not include any gameplay, but there may be a small amount of roleplaying or combat at the end.
 Stunlock | A term to describe a situation in which a player or enemy is stunned repeatedly, "locking" them out of combat.
 Tank | A character with high defenses / survivability.
-Vanilla | A game using no homebrew / 3rd party content and tries to keep as close to RAW (rules as written) / RAI (rules as intended) as possible.
+Vanilla | A game using no homebrew / 3rd party content and trying to keep as close to RAW (rules as written) / RAI (rules as intended) as possible.
