@@ -40,16 +40,16 @@ After doing so, you may add any racial modifiers.
 #### Customizing Ability Scores (Point Buy)
 You have 27 points to spend on your ability scores. After you allocate your abilities, you may add racial modifiers. The cost of each score is shown in the table below:
 
-Score | Cost
---- | ---
-8 | 0
-9 | 1
-10 | 2
-11 | 3
-12 | 4
-13 | 5
-14 | 7
-15 | 9
+| Score | Cost |
+| ----- | ---- |
+| 8     | 0    |
+| 9     | 1    |
+| 10    | 2    |
+| 11    | 3    |
+| 12    | 4    |
+| 13    | 5    |
+| 14    | 7    |
+| 15    | 9    |
 
 For example, using this method, `15, 15, 15, 8, 8, 8` is a possible outcome.
 
@@ -75,9 +75,11 @@ Follow [this link](https://5e.tools/races.html#custom%20lineage_tce,flstsource:d
 
 PCs in Faerûn are able to take any of the standard PHB base classes, with some class and subclass additions for better balance and more options. For example, the Blood Hunter, which was adapted into official content but first used in [Critical Role](https://en.wikipedia.org/wiki/Critical_Role), is an available class.
 
-Follow [this link](https://5e.tools/classes.html#artificer_tce) for a list of classes you can choose from. Blood Hunter won't immediately be visible; To import the Blood Hunter, from that link, click `Manage Homebrew` ->  `Get Homebrew` -> Click the title, not the check, for `Blood Hunter (2022)`. Refresh the page to see details about the Blood Hunter. See the individual links below for descriptions and options for each character.
+Follow [this link](https://5e.tools/classes.html#artificer_tce) for a list of classes you can choose from. Blood Hunter won't immediately be visible; To import the Blood Hunter, from that link, click `Manage Homebrew` ->  `Get Homebrew` -> Click the title, not the check, for `Blood Hunter (2022)`. Refresh the page to see details about the Blood Hunter.
 
 As characters level up, there are a variety of subclasses you can choose from. The following are the available subclasses for each class for this campaign:
+
+> TL;DR - all subclasses from PHB, XGE, TCE, and SCAG are available.
 
 - [Artificer](https://5e.tools/classes.html#artificer_tce,state:isshowfluff=b1~sub-alchemist-tce=b1~sub-armorer-tce=b1~sub-artillerist-tce=b1~sub-battle-smith-tce=b1): Alchemist, Armorer, Artillerist, Battle Smith
 - [Barbarian](https://5e.tools/classes.html#barbarian_phb,state:isshowfluff=b1~sub-ancestral-guardian-xge=b1~sub-battlerager-scag=b1~sub-beast-tce=b1~sub-berserker-phb=b1~sub-storm-herald-xge=b1~sub-totem-warrior-phb=b1~sub-zealot-xge=b1~sub-wild-magic-tce=b1): Ancestral Guardian, Battlerager, Beast, Berserker, Storm Herald, Totem Warrior, Wild Magic, Zealot
@@ -114,6 +116,5 @@ If you wish to choose a class, subclass, or class feature outside of these lists
 - Currency is ignored for calculating encumbrance. 
 - [Encumbrance](https://5e.tools/variantrules.html#encumbrance_phb) is in effect.
 - [Combat flanking](https://5e.tools/variantrules.html#flanking_dmg) is in effect.
-- [Inspiration](https://5e.tools/variantrules.html#inspiration_phb) expires at the end of each session.
-- One inspiration point is awarded based on player vote at the end of each session, to be useable for the next session.
+- [Inspiration](https://5e.tools/variantrules.html#inspiration_phb) is awarded at session end, to be useable for the next session. This inspiration expires at the end of the next session.
 - Death may happen, and your actions have consequences.
