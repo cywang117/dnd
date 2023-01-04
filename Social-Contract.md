@@ -1,6 +1,6 @@
 # Social Contract
 
-> To see the table of contents for this document, click the list icon by the filename at the top left of the README.
+> To see the table of contents for this document, click the list icon at the top of the document. For more details, see [here](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/).
 
 ## Core Principles
 

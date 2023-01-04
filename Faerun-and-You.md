@@ -1,5 +1,7 @@
 # Faerûn and You
 
+> To see the table of contents for this document, click the list icon at the top of the document. For more details, see [here](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/).
+
 ## About this Primer
 Welcome to Faerûn and You. This primer serves as a basic guide to the setting of this campaign. It strives to convey a subset of information that's important to you, the player. Its purpose is to aid in the creation of your campaign character(s).
 

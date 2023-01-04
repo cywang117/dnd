@@ -1,5 +1,7 @@
 # Foundry VTT Visual Guide
 
+> To see the table of contents for this document, click the list icon at the top of the document. For more details, see [here](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/).
+
 This is a quick visual reference guide for players for Foundry Virtual Tabletop, the software we're using to playing Dungeons & Dragons remotely.
 
 > Note: we are using some modules for Foundry which alter the default user interface & experience.
