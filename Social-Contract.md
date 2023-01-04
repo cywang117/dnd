@@ -75,7 +75,7 @@ We want to make sure everyone feels welcome and comfortable at the table when pl
 
 The lines & veils this party will abide by are listed below, and populated together during session 0.
 
-You may realize a line or veil in the moment, when the campaign has begun. If you aren't comfortable with a topic, please TODO. This will result in the party pausing, and discussing out-of-character what should be changed about the current scenario.
+You may realize a line or veil in the moment, when the campaign has begun. If you aren't comfortable with a topic, please [use the X-Card feature of the Anonymous Player in Foundry](./Foundry-VTT-Visual-Guide.md#using-the-x-card). This will result in the party pausing, and discussing out-of-character what should be changed about the current scenario.
 
 ### Lines
 A line is a hard limit, somewhere we won't be going while roleplaying. The following lines are in effect:
