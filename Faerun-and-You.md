@@ -137,6 +137,6 @@ For other common deities, see [here](https://forgottenrealms.fandom.com/wiki/Amn
 
 # References
 - [Sword Coast Adventurer's Guide > Preface](https://5e.tools/book.html#scag,-1,preface,0)
-- [Forgotten Realms Wiki > Calendar of Harptos](https://forgottenrealms.fandom.com/wiki/Calendar_of_Harptos)
 - [Forgotten Realms Wiki > Faerûn](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn)
 - [Forgotten Realms Wiki > Amn](https://realmofadventure.fandom.com/wiki/Amn)
+- [Forgotten Realms Wiki > Calendar of Harptos](https://forgottenrealms.fandom.com/wiki/Calendar_of_Harptos)
