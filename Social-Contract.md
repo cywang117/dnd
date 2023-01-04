@@ -8,7 +8,7 @@
 Roleplaying is a game. Games should be fun. If it's not fun, it's okay to give feedback, ask for change, or quit.
 
 ### D&D should be cooperative
-One person's fun shouldn't be at the expense of another's. Any conflict between in-game characters should be opt-in for all players i## nvolved. If your character refuses to vibe with the rest of the party, the DM may ask you to roll another character whose goals align better.
+One person's fun shouldn't be at the expense of another's. Any conflict between in-game characters should be opt-in for all players involved. If your character refuses to vibe with the rest of the party, the DM may ask you to roll another character whose goals align better.
 
 If you're not okay with something another player character did, discuss it with them out of character instead of reacting in character.
 
@@ -25,7 +25,7 @@ Trust is based on honesty, which is undermined by cheating or lying as a player 
 - DnD5e sources for players (DM sources omitted):
 	- Core: [Player's Handbook (PHB)](https://5e.tools/book.html#phb)
 	- Supplemental: [Xanathar's Guide to Everything (XGE)](https://5e.tools/book.html#xge), [Tasha's Cauldron of Everything (TCE)](https://5e.tools/book.html#tce), [Sword Coast Adventurer's Guide (SCAG)](https://5e.tools/book.html#scag)
-	- Any other officially published Wizards of the Coast (WotC) material or any Unearthed Arcana (UA) are okay, but the DM may decide against them as they arise if they're not balanced. If you're not sure about balance, it's best to consult with the DM before adding the material to your character.
+	- Any other officially published Wizards of the Coast (WotC) material or any Unearthed Arcana (UA) are okay, but the DM may decide against them as they arise if they're not balanced. Please wait for the DM's OK before adding any non-official material to your character.
 	- [Table rules](./Table-Rules.md)
 
 ## Characters
@@ -50,9 +50,14 @@ The DM may go with "rule of cool" at times even when it may contradict "rules as
 ## Focus & Crosstalk
 There will be time to socialize at the beginning of the session. During the session itself, please try to keep your focus on the game.
 
-During the session itself, please try not to get too sidetracked by coaching, such as telling someone what they can do on their turn. Since we're all playing biweekly, let's keep things running and show up prepared. If a player has explicitly asked someone for help, allow that person to answer. If it's not clear who was asked, allow the DM a chance to answer.
+During the session itself, please try not to get too sidetracked by coaching, such as telling someone what they can do on their turn. Allow a player to make their own decisions, even if the decisions may be suboptimal. Since we're all playing biweekly, let's keep things running and show up prepared. If a player has explicitly asked someone for help, allow that person to answer. If it's not clear who was asked, allow the DM a chance to answer.
 
 In the first few sessions, everyone may need time to familiarize themselves with the interface and the rules, so we'll go a bit looser on this ask until everyone gets more familiar with everything.
+
+## Inviting Others
+D&D is an exciting group game, and you may end up talking about it with your friends that don't play. You may end up inviting these friends, or these friends may ask to play. 
+
+Please run the idea of your friend joining or guesting by the DM & party *before* inviting a friend. This is because new additions will change the party dynamic, due to D&D games succeeding or failing based on player comfort & cooperation. Additionally, this results in more work for the DM. Finally, friend dynamics outside of D&D may differ greatly from dynamics within the game.
 
 ## Feedback
 We'll leave a bit of time at the end of each session to debrief & give feedback. It's especially important for players to touch base with one another and the DM if there have been intense scenes or conflicts. For this purpose, we'll be using [Stars & Wishes](https://www.gauntlet-rpg.com/blog/stars-and-wishes).
