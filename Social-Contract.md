@@ -17,7 +17,7 @@ Trust is based on honesty, which is undermined by cheating or lying as a player 
 
 ## Campaign
 - Biweekly (every two weeks), on Sunday, 10AM PST / 6PM GMT, around 3 hours
-- When does the campaign end? 
+- When does the campaign end?
 	- TODO: pending in-person group discussion.
 - [Foundry VTT (Virtual Tabletop)](https://fvtt2.mustachecat.dev) _(Protip: bookmark this page and store your username / password securely!)_
 - Food & alcohol are okay in moderation.
@@ -27,6 +27,9 @@ Trust is based on honesty, which is undermined by cheating or lying as a player 
 	- Supplemental: [Xanathar's Guide to Everything (XGE)](https://5e.tools/book.html#xge), [Tasha's Cauldron of Everything (TCE)](https://5e.tools/book.html#tce), [Sword Coast Adventurer's Guide (SCAG)](https://5e.tools/book.html#scag)
 	- Any other officially published Wizards of the Coast (WotC) material or any Unearthed Arcana (UA) are okay, but the DM may decide against them as they arise if they're not balanced. Please wait for the DM's OK before adding any non-official material to your character.
 	- [Table rules](./Table-Rules.md)
+
+### What kind of D&D campaign are we playing?
+- TODO
 
 ## Characters
 Characters should be created with the party in mind. They should have a reason to cooperate with each other.
