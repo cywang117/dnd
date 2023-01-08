@@ -28,6 +28,13 @@ If you're interested in a variant, homebrew, or rule option that's not listed be
 ## Character Creation
 
 ### Character Ability Scores 
+NOTE: as of Session 0, we've all agreed to **DM's Luck** as the method of generating our ability scores, and the ability score array is as follows:
+```
+8, 12, 12, 14, 17, 18
+```
+
+Assign these scores to your character, then add your racial bonuses.
+
 There are 3 options for character ability scores:
 
 #### Preset Ability Scores (Standard Array)
@@ -54,7 +61,7 @@ You have 27 points to spend on your ability scores. After you allocate your abil
 For example, using this method, `15, 15, 15, 8, 8, 8` is a possible outcome.
 
 #### DM's Luck (Custom Array)
-If all the players agree, the DM rolls a set of scores and everyone assigns those numbers to their ability scores. Rolls of 1-4 will be rerolled. After scores are assigned, racial modifiers are applied.
+If all the players agree, the DM rolls a set of scores and everyone assigns those numbers to their ability scores. Rolls of 1-6 will be rerolled. After scores are assigned, racial modifiers are applied.
 
 ### Character Backgrounds
 Characters in our starting region of Faerûn may come from a variety of backgrounds. The accepted backgrounds in this game may be found in the PHB (Player's Handbook) or SCAG (Sword Coast Adventurer's Guide). Your backstory can be seen as very general starting points that players can use as part of their backstories, personalities, or in the ways others react to them.

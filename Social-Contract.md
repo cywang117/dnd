@@ -29,7 +29,12 @@ Trust is based on honesty, which is undermined by cheating or lying as a player 
 	- [Table rules](./Table-Rules.md)
 
 ### What kind of D&D campaign are we playing?
-- TODO
+Player sourced:
+- Variety: balanced RP & combat
+- Heroic archetypes, dystopian capitalism & its consequences. Will our heroes overcome the system or succumb to it?
+- Player backstories matter and will be incorporated into the main plot. Character development is expected, unless you don't want to.
+- Know your classes & come prepared so we can keep it moving, since this campaign is biweekly!
+- Not too serious, jokes incorporated into the campaign are fine.
 
 ## Characters
 Characters should be created with the party in mind. They should have a reason to cooperate with each other.
@@ -39,7 +44,7 @@ Your character's development is in your hands. The DM won't force a player's cha
 No evil characters in this campaign!
 
 ## Attendance
-We're busy adults and there will inevitably be a scheduling conflict. If you're going to miss or be late to a session, please let the DM & party know via group chat. 1 day+ in advance is ideal, but it's understandable if the notice is shorter -- things happen.
+We're busy adults and there will inevitably be a scheduling conflict. If you're going to miss or be late to a session, please let the DM & party know via group chat or at least by declining the Google calendar event. 1 day+ in advance is ideal, but it's understandable if the notice is shorter -- things happen.
 
 In your absence, please determine who will be playing the character (DM or another player). The character will receive half XP from encounters.
 
@@ -71,8 +76,6 @@ If you don't feel comfortable criticizing the game, ask someone else to relay yo
 
 If someone complains to you about the game, relay it to the DM anonymously.
 
-TODO: Discuss other ways to give feedback.
-
 ## Safety Tools
 We want to make sure everyone feels welcome and comfortable at the table when playing. This is where safety tools come in. 
 
@@ -84,9 +87,12 @@ You may realize a line or veil in the moment, when the campaign has begun. If yo
 A line is a hard limit, somewhere we won't be going while roleplaying. The following lines are in effect:
 - Sexual violence
 - LGBTQIA+ discrimination
-- TODO
+- Self-harm
 
 ### Veils
 A veil is a soft limit or "fade to black" moment. A veil is part of the story, but not described. The following veils are in effect:
 - Torture
-- TODO
+- Killing children
+- Sexual content
+- Violence (keep it limited in terms of description -- a little is fine but not too much)
+- Racism (it can exist, but not gratuitously so)
