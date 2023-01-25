@@ -2,9 +2,9 @@
 
 ## Campaign
 - [Our FoundryVTT World](https://fvtt2.mustachecat.dev)
-- [Faerûn and You: setting primer](./Faerun-and-You.md)
-- [Social Contract](./Social-Contract.md)
-- [Glossary](./Glossary.md)
+- [Faerûn and You: setting primer](Faerun-and-You.md)
+- [Social Contract](Social-Contract.md)
+- [Glossary](Glossary.md)
 
 ## Resources
 - [Quick reference](https://5e.tools/quickreference.html#bookref-quick)

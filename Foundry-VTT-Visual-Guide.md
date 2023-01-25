@@ -122,7 +122,7 @@ You may need to adjust the HUD to expand downwards prior to first use. You only 
 </details>
 
 # Using the "X-Card"
-See [Social Contract > Safety Tools](./Social-Contract.md#safety-tools) for details about when this should be used.
+See [Social Contract > Safety Tools](Social-Contract.md#safety-tools) for details about when this should be used.
 
 <details closed>
 <summary>DEMO: Using the Anonymous Player's X-Card</summary>
